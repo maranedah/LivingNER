@@ -1,0 +1,3 @@
+pandas
+spacy
+# python -m spacy download es_core_news_lg

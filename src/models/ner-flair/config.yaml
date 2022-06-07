@@ -1,0 +1,18 @@
+
+model_name: "PlanTL-GOB-ES/bsc-bio-es" # PlanTL-GOB-ES/roberta-base-bne, "dccuchile/bert-base-spanish-wwm-cased" , PlanTL-GOB-ES/bsc-bio-ehr-es, PlanTL-GOB-ES/bsc-bio-es
+data_folder: "../data/subtask3/FOOD"
+subtoken_pooling: "first" # first, mean
+hidden_size: 256
+learning_rate: 0.1
+mini_batch_size: 4
+max_epochs: 20
+weight_decay: 0.
+output_path: "livingner-subtask3-FOOD-bio-roberta/"
+mini_batch_chunk_size: 1
+seed: 123
+train_with_test: False
+train_with_dev: True
+start_from_checkpoint: False
+fine_tune: True
+rnn_layers: 1
+model_type: roberta
