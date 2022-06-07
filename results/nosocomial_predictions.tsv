@@ -1,0 +1,175 @@
+filename	mark	label	off0	off1	span
+casos_clinicos_cardiologia47	T0	NOSOCOMIAL	4572	4589	Coxiella burnetti
+cc_onco972	T0	NOSOCOMIAL	2997	3023	Staphylococcus epidermidis
+cc_onco972	T1	NOSOCOMIAL	4847	4873	Staphylococcus epidermidis
+caso_clinico_urologia267	T0	NOSOCOMIAL	6489	6512	Acinetobacter baumannii
+caso_clinico_urologia307	T0	NOSOCOMIAL	4475	4492	Enterococcus spp.
+caso_clinico_urologia307	T1	NOSOCOMIAL	4597	4617	Enterococcus faecium
+cc_onco839	T0	NOSOCOMIAL	2294	2310	Candida albicans
+es-S0212-16112012000600045-1	T0	NOSOCOMIAL	2489	2505	Proteus vulgaris
+casos_clinicos_cardiologia3	T0	NOSOCOMIAL	2868	2894	Staphylococcus epidermidis
+casos_clinicos_cardiologia3	T1	NOSOCOMIAL	4305	4326	Staphylococcus aureus
+casos_clinicos_cardiologia3	T2	NOSOCOMIAL	5692	5720	S. aureus meticilin sensible
+caso_clinico_medicina_interna715	T0	NOSOCOMIAL	919	947	Pseudomonas multirresistente
+es-S0210-56912008000200007-1	T0	NOSOCOMIAL	1862	1873	C. albicans
+caso_clinico_medicina_interna846	T0	NOSOCOMIAL	1140	1157	Coxiella Burnetii
+caso_clinico_medicina_interna846	T1	NOSOCOMIAL	1618	1635	Coxiella Burnetii
+caso_clinico_urgencias43	T0	NOSOCOMIAL	1823	1839	SAMR comunitario
+caso_clinico_urgencias43	T1	NOSOCOMIAL	2457	2478	Staphilococcus aureus
+caso_clinico_dermatologia125	T0	NOSOCOMIAL	1763	1782	Trichophyton rubrum
+es-S0376-78922016000400007-1	T0	NOSOCOMIAL	2750	2789	Pseudomonas aeruginosa multirresistente
+caso_clinico_medicina_interna528	T0	NOSOCOMIAL	-1	48	
+caso_clinico_medicina_interna528	T1	NOSOCOMIAL	1858	1872	S. epidermidis
+32417987_ES	T0	NOSOCOMIAL	1744	1765	Mycoplasma pneumoniae
+caso_clinico_medicina_interna313	T0	NOSOCOMIAL	1535	1555	mycobacteria atípica
+caso_clinico_medicina_interna298	T0	NOSOCOMIAL	1972	1994	Mycobacterium chimaera
+caso_clinico_medicina_interna298	T1	NOSOCOMIAL	2231	2251	micobacteria atípica
+cc_onco341	T0	NOSOCOMIAL	4649	4684	Staf. Aureus sensible a amoxicilina
+casos_clinicos_cardiologia24	T0	NOSOCOMIAL	1175	1199	Streptococcus agalactiae
+caso_clinico_medicina_interna176	T0	NOSOCOMIAL	635	661	Klebsiella pneumoniae BLEE
+caso_clinico_medicina_interna176	T1	NOSOCOMIAL	731	744	P. falciparum
+casos_clinicos_infecciosas3	T0	NOSOCOMIAL	3794	3861	enterobacterias productoras de betalactamasas de espectro extendido
+casos_clinicos_infecciosas3	T1	NOSOCOMIAL	8245	8279	Candida albicans sensible a azoles
+casos_clinicos_infecciosas3	T2	NOSOCOMIAL	8720	8736	Candida albicans
+es-S0210-48062009000900015-1	T0	NOSOCOMIAL	1782	1798	Escherichia coli
+caso_clinico_medtropical105	T0	NOSOCOMIAL	877	891	S. stercolaris
+caso_clinico_medtropical105	T1	NOSOCOMIAL	-1	73	
+caso_clinico_medtropical105	T2	NOSOCOMIAL	3437	3451	S. stercoralis
+cc_onco737	T0	NOSOCOMIAL	4848	4873	E. coli productor de BLEE
+caso_clinico_medicina_interna565	T0	NOSOCOMIAL	2191	2233	Staphylococcus Aureus meticilín resistente
+caso_clinico_medicina_interna565	T1	NOSOCOMIAL	2235	2239	SAMR
+caso_clinico_medicina_interna565	T2	NOSOCOMIAL	2652	2694	Staphylococcus Aureus meticilín resistente
+casos_clinicos_infecciosas135	T0	NOSOCOMIAL	2619	2646	Aggregatibacter aphrophilus
+casos_clinicos_infecciosas135	T1	NOSOCOMIAL	2649	2669	Streptococcus oralis
+casos_clinicos_infecciosas135	T2	NOSOCOMIAL	7661	7670	S. oralis
+casos_clinicos_infecciosas135	T3	NOSOCOMIAL	7673	7687	A. aphrophilus
+casos_clinicos_infecciosas135	T4	NOSOCOMIAL	8739	8766	Aggregatibacter aphrophilus
+casos_clinicos_cardiologia33	T0	NOSOCOMIAL	3509	3532	Haemophilus aphrophilus
+casos_clinicos_cardiologia192	T0	NOSOCOMIAL	5327	5348	Candida orthopsilosis
+es-S1137-66272012000300021-1	T0	NOSOCOMIAL	1749	1765	Candida albicans
+casos_clinicos_cardiologia26	T0	NOSOCOMIAL	1408	1427	Estafilococo aureus
+casos_clinicos_cardiologia26	T1	NOSOCOMIAL	1647	1663	Cándida albicans
+casos_clinicos_infecciosas108	T0	NOSOCOMIAL	11895	11928	bacilos ácido-alcohol resistentes
+caso_clinico_radiologia251	T0	NOSOCOMIAL	908	929	Clostridium difficile
+casos_clinicos_cardiologia22	T0	NOSOCOMIAL	2302	2351	Staphylococcus aureus sensible a la meticilina.Se
+cc_onco485	T0	NOSOCOMIAL	3864	3885	Clostridium difficile
+casos_clinicos_pediatria14	T0	NOSOCOMIAL	690	712	Dermacentor marginatus
+caso_clinico_medtropical116	T0	NOSOCOMIAL	2678	2699	Plasmodium falciparum
+caso_clinico_medtropical116	T1	NOSOCOMIAL	2788	2809	Plasmodium falciparum
+es-S0212-16112004000400007-1	T0	NOSOCOMIAL	3976	3988	Candida spp.
+caso_clinico_medtropical103	T0	NOSOCOMIAL	1205	1218	Brugia malaya
+caso_clinico_medicina_interna944	T0	NOSOCOMIAL	420	442	Pneumocystis jirovecii
+casos_clinicos_cardiologia196	T0	NOSOCOMIAL	616	637	Klebsiella pneumoniae
+casos_clinicos_cardiologia196	T1	NOSOCOMIAL	679	748	Staphylococcus epidermidis coagulasa negativo resistente a oxaciclina
+casos_clinicos_cardiologia23	T0	NOSOCOMIAL	1138	1161	C. pseudodiphtheriticum
+casos_clinicos_infecciosas131	T0	NOSOCOMIAL	1182	1244	Salmonella enteritidis resistente únicamente a aminoglucósidos
+caso_clinico_medicina_interna205	T0	NOSOCOMIAL	500	520	Bacteroides fragilis
+caso_clinico_medicina_interna205	T1	NOSOCOMIAL	666	686	Bacteroides fragilis
+casos_clinicos_cardiologia21	T0	NOSOCOMIAL	4657	4670	H. capsulatum
+es-S1130-01082009000700016-1	T0	NOSOCOMIAL	1412	1441	Enterobacter cloacae sensible
+es-S1699-695X2014000200007-1	T0	NOSOCOMIAL	549	558	H. pylori
+caso_clinico_medtropical100	T0	NOSOCOMIAL	1488	1496	L. major
+es-S0210-48062005000100016-1	T0	NOSOCOMIAL	3260	3267	E. coli
+cc_onco134	T0	NOSOCOMIAL	498	514	Escherichia coli
+casos_clinicos_infecciosas103	T0	NOSOCOMIAL	398	418	Enterobacter cloacae
+casos_clinicos_infecciosas103	T1	NOSOCOMIAL	1754	1800	bacilos gram-positivos sensibles a vancomicina
+cc_onco3	T0	NOSOCOMIAL	5476	5498	Pneumocystis jirovecci
+caso_clinico_medicina_interna976	T0	NOSOCOMIAL	1889	1926	Stafilococo aureus meticilín-sensible
+casos_clinicos_pediatria33	T0	NOSOCOMIAL	932	951	Helicobacter Pylori
+casos_clinicos_infecciosas33	T0	NOSOCOMIAL	5359	5378	Tropheryma Whipplei
+casos_clinicos_infecciosas33	T1	NOSOCOMIAL	6001	6020	Tropheryma whipplei
+caso_clinico_medtropical130	T0	NOSOCOMIAL	3172	3215	Mycobacterium tuberculosis multirresistente
+caso_clinico_medicina_interna977	T0	NOSOCOMIAL	929	950	Micobacterium marinum
+es-S0212-71992006000700008-1	T0	NOSOCOMIAL	1603	1606	VHS
+cc_onco97	T0	NOSOCOMIAL	2225	2247	Haemophilus influenzae
+casos_clinicos_infecciosas128	T0	NOSOCOMIAL	5424	5445	Enterococcus faecalis
+casos_clinicos_infecciosas128	T1	NOSOCOMIAL	5783	5794	E. faecalis
+casos_clinicos_infecciosas128	T2	NOSOCOMIAL	6048	6059	E. faecalis
+casos_clinicos_infecciosas128	T3	NOSOCOMIAL	8933	8954	Enterococcus faecalis
+caso_clinico_dermatologia215	T0	NOSOCOMIAL	2234	2250	Escherichia coli
+caso_clinico_dermatologia215	T1	NOSOCOMIAL	2798	2840	Staphilococcus aureus meticilín resistente
+casos_clinicos_infecciosas25	T0	NOSOCOMIAL	7117	7142	Streptococcus intermedius
+caso_clinico_medicina_interna18	T0	NOSOCOMIAL	1837	1877	flora polimicrobiana aerobia y anaerobia
+caso_clinico_medicina_interna18	T1	NOSOCOMIAL	2163	2183	flora polimicrobiana
+caso_clinico_medicina_interna18	T2	NOSOCOMIAL	2196	2218	Pseudomonas aeruginosa
+caso_clinico_medicina_interna18	T3	NOSOCOMIAL	2221	2237	Cándida albicans
+caso_clinico_medtropical78	T0	NOSOCOMIAL	2924	2940	Hymenolepis nana
+caso_clinico_medtropical78	T1	NOSOCOMIAL	3387	3412	Strongyloides stercoralis
+casos_clinicos_infecciosas139	T0	NOSOCOMIAL	90	112	Pneumocystis jirovecii
+casos_clinicos_infecciosas139	T1	NOSOCOMIAL	7426	7445	Serratia plymuthica
+caso_clinico_medicina_interna233	T0	NOSOCOMIAL	193	214	Klebsiella pneumoniae
+caso_clinico_medicina_interna233	T1	NOSOCOMIAL	266	287	Klebsiella pneumoniae
+caso_clinico_medicina_interna233	T2	NOSOCOMIAL	1218	1253	Klebsiella pneumoniae multisensible
+caso_clinico_medtropical137	T0	NOSOCOMIAL	4071	4096	Streptococcus epidermidis
+caso_clinico_medtropical137	T1	NOSOCOMIAL	4164	4196	Candida spp. resistente a azoles
+caso_clinico_medtropical137	T2	NOSOCOMIAL	4501	4522	Plasmodium falciparum
+caso_clinico_urgencias28	T0	NOSOCOMIAL	460	467	E. coli
+caso_clinico_oftalmologia98	T0	NOSOCOMIAL	1576	1617	Staphylococcus aureus meticilinresistente
+caso_clinico_oftalmologia98	T1	NOSOCOMIAL	1994	2020	Staphylococcus epidermidis
+casos_clinicos_infecciosas35	T0	NOSOCOMIAL	3603	3629	Staphylococcus lugdunensis
+casos_clinicos_infecciosas35	T1	NOSOCOMIAL	4002	4033	estafilococo coagulasa negativo
+caso_clinico_medicina_interna811	T0	NOSOCOMIAL	918	936	Campylobacter coli
+es-S1130-01082006000100014-1	T0	NOSOCOMIAL	2056	2078	Listeria monocytogenes
+caso_clinico_urologia155	T0	NOSOCOMIAL	1202	1239	Neisseria gonorrhoeae multiresistente
+caso_clinico_medtropical96	T0	NOSOCOMIAL	1736	1755	Trichiuris trichura
+casos_clinicos_cardiologia16	T0	NOSOCOMIAL	1206	1227	estreptococo viridans
+cc_onco93	T0	NOSOCOMIAL	4944	4966	Haemophilus influenzae
+es-S1139-76322015000400012-1	T0	NOSOCOMIAL	2087	2097	R. slovaca
+es-S1139-76322013000100010-1	T0	NOSOCOMIAL	530	552	Streptococcus pyogenes
+es-S1139-76322013000100010-1	T1	NOSOCOMIAL	983	1004	Staphylococcus aureus
+es-S0210-48062009000600018-1	T0	NOSOCOMIAL	996	1016	E.Coli multisensible
+caso_clinico_urologia157	T0	NOSOCOMIAL	865	904	Pseudomonas aeruginosa multirresistente
+caso_clinico_urologia157	T1	NOSOCOMIAL	1865	1878	P. aeruginosa
+casos_clinicos_infecciosas23	T0	NOSOCOMIAL	3495	3517	Listeria monocytogenes
+caso_clinico_medtropical135	T0	NOSOCOMIAL	2379	2395	Plasmodium vivax
+caso_clinico_medtropical135	T1	NOSOCOMIAL	2427	2435	P. vivax
+caso_clinico_radiologia464	T0	NOSOCOMIAL	850	869	gérmenes anaerobios
+caso_clinico_radiologia464	T1	NOSOCOMIAL	871	892	Actinomyces europaeus
+cc_onco920	T0	NOSOCOMIAL	2180	2205	Streptococcus intermedius
+cc_onco920	T1	NOSOCOMIAL	4914	4928	S. epidermidis
+caso_clinico_medtropical95	T0	NOSOCOMIAL	4226	4243	Leptospira pomona
+caso_clinico_medtropical81	T0	NOSOCOMIAL	2173	2221	sensible a rifampicina y resistente a isoniazida
+caso_clinico_medtropical81	T1	NOSOCOMIAL	2503	2526	Mycobacterium fortuitum
+es-S0212-16112013000300056-1	T0	NOSOCOMIAL	546	572	Staphylococcus epidermidis
+es-S0212-16112013000300056-1	T1	NOSOCOMIAL	1481	1507	Staphylococcus epidermidis
+es-S0212-16112013000300056-1	T2	NOSOCOMIAL	2013	2039	Staphylococcus epidermidis
+es-S0212-16112013000300056-1	T3	NOSOCOMIAL	2153	2179	Staphylococcus epidermidis
+es-S0212-16112013000300056-1	T4	NOSOCOMIAL	2617	2640	Acinetobacter baumannii
+caso_clinico_oftalmologia262	T0	NOSOCOMIAL	208	227	Trichosporon asahii
+caso_clinico_oftalmologia262	T1	NOSOCOMIAL	570	589	Trichosporon asahii
+cc_onco199	T0	NOSOCOMIAL	2891	2919	Stenotrophomonas maltophilia
+caso_clinico_medicina_interna134	T0	NOSOCOMIAL	2090	2113	Clostridium perfringens
+caso_clinico_medicina_interna87	T0	NOSOCOMIAL	7028	7042	Cándida famata
+casos_clinicos_infecciosas86	T0	NOSOCOMIAL	4036	4049	M. pneumoniae
+casos_clinicos_infecciosas86	T1	NOSOCOMIAL	4298	4311	M. pneumoniae
+caso_clinico_medicina_interna86	T0	NOSOCOMIAL	9064	9083	Leishmania donovani
+caso_clinico_urologia130	T0	NOSOCOMIAL	1427	1464	Enterococcus faecium multirresistente
+caso_clinico_urologia130	T1	NOSOCOMIAL	2345	2366	Escherichia coli BLEE
+caso_clinico_urgencias114	T0	NOSOCOMIAL	1232	1254	Streptococcus viridans
+caso_clinico_urgencias114	T1	NOSOCOMIAL	1257	1277	Enterococus faecalis
+casos_clinicos_infecciosas52	T0	NOSOCOMIAL	7584	7605	Plasmodium falciparum
+casos_clinicos_infecciosas52	T1	NOSOCOMIAL	7730	7743	P. falciparum
+casos_clinicos_infecciosas52	T2	NOSOCOMIAL	10538	10559	Plasmodium falciparum
+caso_clinico_medicina_interna490	T0	NOSOCOMIAL	1877	1900	Cryptococcus neoformans
+casos_clinicos_infecciosas91	T0	NOSOCOMIAL	8872	8894	Listeria monocytogenes
+casos_clinicos_infecciosas91	T1	NOSOCOMIAL	9892	9914	Listeria monocytogenes
+casos_clinicos_infecciosas90	T0	NOSOCOMIAL	9463	9486	Cryptococcus neoformans
+casos_clinicos_infecciosas90	T1	NOSOCOMIAL	10573	10596	Cryptococcus neoformans
+caso_clinico_dermatologia505	T0	NOSOCOMIAL	695	710	hiedra venenosa
+casos_clinicos_infecciosas162	T0	NOSOCOMIAL	1989	2015	Legionella spp y neumococo
+casos_clinicos_infecciosas162	T1	NOSOCOMIAL	8600	8640	Acinetobacter baumannii multirresistente
+casos_clinicos_infecciosas162	T2	NOSOCOMIAL	10130	10205	Acinetobacter baumannii multirresistente sensible a tigeciclina y colistina
+casos_clinicos_infecciosas162	T3	NOSOCOMIAL	10256	10274	Aspergillus flavus
+casos_clinicos_infecciosas162	T4	NOSOCOMIAL	10329	10369	Acinetobacter baumannii multirresistente
+caso_clinico_medicina_interna708	T0	NOSOCOMIAL	26	48	Neisseria meningitidis
+casos_clinicos_infecciosas57	T0	NOSOCOMIAL	528	549	Aspergillus fumigatus
+casos_clinicos_infecciosas57	T1	NOSOCOMIAL	5935	5952	Toxoplasma gondii
+casos_clinicos_infecciosas57	T2	NOSOCOMIAL	10703	10716	N. asteroides
+caso_clinico_medicina_interna319	T0	NOSOCOMIAL	1887	1908	Pseudomona aeruginosa
+es-S0376-78922009000400011-1	T0	NOSOCOMIAL	1690	1706	Proteus vulgaris
+cc_onco940	T0	NOSOCOMIAL	4804	4829	Streptococcus intermedius
+caso_clinico_neurologia209	T0	NOSOCOMIAL	4443	4463	Mycobacterium leprae
+cc_onco997	T0	NOSOCOMIAL	1840	1866	Mycobacterium tuberculosis
+casos_clinicos_cardiologia49	T0	NOSOCOMIAL	1492	1518	Staphylococcus epidermidis
+casos_clinicos_infecciosas167	T0	NOSOCOMIAL	10017	10043	Mycobacterium tuberculosis
+es-S1137-66272014000300017-1	T0	NOSOCOMIAL	-1	34	
