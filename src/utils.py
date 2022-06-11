@@ -1,14 +1,21 @@
+import os
 from enum import Enum
 from pathlib import Path
 from typing import List, Tuple
+from dotenv import load_dotenv
 from flair.data import Sentence
 
+load_dotenv()
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
-DATA_PATH = PROJECT_DIR / "data"
-DOCUMENTS_PATH = DATA_PATH
-MODELS_PATH = PROJECT_DIR / "models"
-RESULTS_PATH = PROJECT_DIR / "results"
+DATA_PATH = PROJECT_DIR / "data" if not os.getenv("DATA_PATH") else Path(os.getenv("DATA_PATH"))
+DOCUMENTS_PATH = (
+    DATA_PATH / "training_valid_test_background_multilingual"
+    if not os.getenv("DOCUMENTS_PATH")
+    else Path(os.getenv("DOCUMENTS_PATH"))
+)
+MODELS_PATH = PROJECT_DIR / "models" if not os.getenv("MODELS_PATH") else Path(os.getenv("MODELS_PATH"))
+RESULTS_PATH = PROJECT_DIR / "results" if not os.getenv("RESULTS_PATH") else Path(os.getenv("RESULTS_PATH"))
 
 subtask1_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask1-NER/validation_entities_subtask1.tsv -p ../../LivingNER/results/species_predictions.tsv -s ner"
 subtask2_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask2-Norm/evaluation.tsv -p ../../LivingNER/results/subtask2_predictions.tsv -s norm"

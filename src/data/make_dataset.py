@@ -11,7 +11,7 @@ from src.utils import DATA_PATH
 def download_data():
     data_url = "https://zenodo.org/record/6576488/files/training_valid_test_background_multilingual.zip?download=1"
     wget.download(data_url, str(DATA_PATH))
-    output_file = f"{DATA_PATH}/training_valid.zip"
+    output_file = f"{DATA_PATH}/training_valid_test_background_multilingual.zip"
     shutil.unpack_archive(output_file, extract_dir=DATA_PATH)
     os.remove(output_file)
 
