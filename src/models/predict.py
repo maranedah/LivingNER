@@ -78,7 +78,7 @@ def read_filenames(split_to_predict: Split, subtask: Task):
         return [file for file in (DOCUMENTS_PATH / split_to_predict.value / "text-files").iterdir()]
 
 
-def predict_all_entities(split_to_predict=Split.valid):
+def predict_all_entities(split_to_predict=Split.test_background):
     for entity in ["pet", "animal", "food", "nosocomial"]:
         model_filepath = MODELS_PATH / f"{entity}.pt"
         prediction_filepath = RESULTS_PATH / f"{entity}_predictions.tsv"

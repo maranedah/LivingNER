@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 setup(
     name="src",
     packages=find_packages(),
-    version="0.3.1",
+    version="0.3.2",
     description="LivingNER project ",
     author="maranedah",
     license="MIT",
