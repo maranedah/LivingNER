@@ -3,7 +3,5 @@ from src.data.make_dataset import download_dataset
 from src.models.train import train_subtask2_codes
 
 if __name__ == "__main__":
-    download_dataset()
-    # predict_subtask1()
-    # predict_subtask2()
-    # predict_subtask3()
+    train_subtask2_codes()
+    predict_subtask2()

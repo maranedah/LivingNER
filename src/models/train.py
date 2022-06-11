@@ -6,7 +6,7 @@ from src.utils import MODELS_PATH, DATA_PATH, DOCUMENTS_PATH, RESULTS_PATH, Spli
 from src.models.string_distance_matcher import StringMatcher
 
 
-def train_subtask2_codes(splits_to_use_for_training=[Split.training]):
+def train_subtask2_codes(splits_to_use_for_training=[Split.training, Split.valid]):
     dictionary_definitions = get_dictionary_definitions()
     dataset_definitions = get_dataset_definitions(splits_to_use_for_training)
     sentences = np.concatenate((dictionary_definitions[0], dataset_definitions[0]))
@@ -35,8 +35,12 @@ def get_dictionary_definitions():
 def get_dataset_definitions(split_types: List[Split]):
     df = pd.DataFrame()
     for split_type in split_types:
+        mapx = {Split.training: "training", Split.valid: "validation"}
         entities = pd.read_csv(
-            os.path.join(DOCUMENTS_PATH, split_type.value, "subtask2-Norm", "training_entities_subtask2.tsv"), sep="\t"
+            os.path.join(
+                DOCUMENTS_PATH, split_type.value, "subtask2-Norm", f"{mapx[split_type]}_entities_subtask2.tsv"
+            ),
+            sep="\t",
         )
         entities = entities.drop_duplicates(subset=["code", "span"])
         df = pd.concat([df, entities])

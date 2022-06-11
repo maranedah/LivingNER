@@ -6,7 +6,7 @@ from flair.data import Sentence, Token, Span
 import numpy as np
 import pandas as pd
 
-from src.utils import DOCUMENTS_PATH, Split, DATA_PATH, MODELS_PATH, RESULTS_PATH, Task, read_sentences
+from src.utils import DOCUMENTS_PATH, MINI_BATCH_SIZE, Split, DATA_PATH, MODELS_PATH, RESULTS_PATH, Task, read_sentences
 from src.models.string_distance_matcher import StringMatcher
 
 
@@ -92,7 +92,9 @@ def predict_flair_model(model_filepath: Path, prediction_filepath: Path, split_t
     print("Loaded model")
     sentences = read_sentences(split_to_predict)
     print("Read sentences")
-    trained_model.predict([s for s, o in sentences], label_name="predicted_ner", verbose=True)
+    trained_model.predict(
+        [s for s, o in sentences], label_name="predicted_ner", verbose=True, mini_batch_size=MINI_BATCH_SIZE
+    )
     rows = []
     for sentence, original_text in sentences:
         labels_predicted = transform_to_format(sentence, original_text)

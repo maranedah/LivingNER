@@ -16,6 +16,7 @@ DOCUMENTS_PATH = (
 )
 MODELS_PATH = PROJECT_DIR / "models" if not os.getenv("MODELS_PATH") else Path(os.getenv("MODELS_PATH"))
 RESULTS_PATH = PROJECT_DIR / "results" if not os.getenv("RESULTS_PATH") else Path(os.getenv("RESULTS_PATH"))
+MINI_BATCH_SIZE = 32 if not os.getenv("MINI_BATCH_SIZE") else int(os.getenv("MINI_BATCH_SIZE"))
 
 subtask1_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask1-NER/validation_entities_subtask1.tsv -p ../../LivingNER/results/species_predictions.tsv -s ner"
 subtask2_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask2-Norm/evaluation.tsv -p ../../LivingNER/results/subtask2_predictions.tsv -s norm"
