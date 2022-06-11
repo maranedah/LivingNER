@@ -79,7 +79,7 @@ def read_filenames(split_to_predict: Split, subtask: Task):
 
 
 def predict_all_entities(split_to_predict=Split.valid):
-    for entity in ["food"]:
+    for entity in ["pet", "animal", "food", "nosocomial"]:
         model_filepath = MODELS_PATH / f"{entity}.pt"
         prediction_filepath = RESULTS_PATH / f"{entity}_predictions.tsv"
         predict_flair_model(model_filepath, prediction_filepath, split_to_predict)
