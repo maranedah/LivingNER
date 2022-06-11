@@ -12,6 +12,7 @@ RESULTS_PATH = PROJECT_DIR / "results"
 
 subtask1_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask1-NER/validation_entities_subtask1.tsv -p ../../LivingNER/results/species_predictions.tsv -s ner"
 subtask2_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask2-Norm/evaluation.tsv -p ../../LivingNER/results/subtask2_predictions.tsv -s norm"
+subtask3_evaluation_command = "python main.py -g ../../LivingNER/data/valid/subtask3-Clinical-Impact/validation_subtask3.tsv -p ../../LivingNER/results/subtask3_predictions.tsv -s app"
 
 
 class Split(Enum):
