@@ -75,7 +75,7 @@ def read_filenames(split_to_predict: Split, subtask: Task):
         ) as f:
             return f.read().splitlines()
     else:
-        return [file for file in (DOCUMENTS_PATH / split_to_predict.value / "text-files").iterdir()]
+        return [file.stem for file in (DOCUMENTS_PATH / split_to_predict.value / "text-files").iterdir()]
 
 
 def predict_all_entities(split_to_predict=Split.test_background):
