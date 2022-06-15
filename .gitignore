@@ -91,3 +91,5 @@ target/
 venv/
 *.pt
 *.pickle
+*.tsv
+*.zip
